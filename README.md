@@ -91,8 +91,8 @@ These datasets were joined to create a unified analytical view for reporting and
 ---
 
 ## 📸 Dashboard Preview
+https://dbc-cf70d720-89cd.cloud.databricks.com/dashboardsv3/01f11710b5a31d7ba41a35c247f79a3f/published?o=7474650609009378
 
-(Add dashboard screenshot here)
 
 ---
 
